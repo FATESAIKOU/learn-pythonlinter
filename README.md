@@ -24,6 +24,11 @@ learn-pythonlinter/
 
 ## 3. Usage Guide
 
+### Initalize Project
+```
+uv sync
+```
+
 ### Manual Linter Execution
 
 1. **Add an Antipattern for Testing**
